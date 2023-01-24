@@ -1,3 +1,15 @@
+# Pokedex
+
+Simple app rendering data fetched from https://pokeapi.co. Made using Next.js and React Server Components. Styled using Tailwind.
+
+Live demo: https://pokedex.jumr.dev
+
+List view at [`/`](https://pokedex.jumr.dev)
+
+Detail view at `/pokemon/[name]`. E.g. [Bulbasaur](https://pokedex.jumr.dev/pokemon/bulbasaur)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
